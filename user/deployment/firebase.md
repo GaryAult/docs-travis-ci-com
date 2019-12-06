@@ -6,7 +6,6 @@ deploy: v1
 ---
 
 
-
 Travis CI can automatically deploy your application to [Firebase](https://firebase.google.com/)
 after a successful build.
 
